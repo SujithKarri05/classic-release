@@ -1,0 +1,43 @@
+{
+  "events": [
+  {
+    id: 1,
+    category: 'Sci-fi',
+    title: 'Indiana Jones and the Raiders of the Lost Ark',
+    description:
+      'Archaeologist Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis do.',
+    location: 'Hoyts Cinema, Melbourne',
+    date: 'February 15, 2024',
+    time: '7:00',
+    byo: true,
+    organizer: 'Indiana Jones Fan Club',
+    poster: '/indi.jpg',
+  },
+  {
+    id: 2,
+    category: 'Action',
+    title: 'Mad Max: Fury Road',
+    description:
+      'In a post-apocalyptic wasteland, Max teams up with Furiosa to escape a tyrannical warlord and his army.',
+    location: 'Event Cinemas, Sydney',
+    date: 'March 10, 2024',
+    time: '8:30',
+    byo: false,
+    organizer: 'Mad Max Enthusiasts',
+    poster: '/maddy.webp',
+  },
+  {
+    id: 3,
+    category: 'Adventure',
+    title: 'The Lord of the Rings: The Fellowship of the Ring',
+    description:
+      'A meek Hobbit from the Shire and eight companions set out on a journey to destroy the One Ring and save Middle-earth from the Dark Lord Sauron.',
+    location: 'Village Cinemas, Brisbane',
+    date: 'April 5, 2024',
+    time: '6:45',
+    byo: false,
+    organizer: 'LOTR Fans United',
+    poster: '/LOTR.jpg',
+  }
+]
+}
