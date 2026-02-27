@@ -11,7 +11,7 @@
     time: '7:00',
     byo: true,
     organizer: 'Indiana Jones Fan Club',
-    poster: '/indi.jpg',
+    poster: '/indi.jpg'
   },
   {
     id: 2,
@@ -24,7 +24,7 @@
     time: '8:30',
     byo: false,
     organizer: 'Mad Max Enthusiasts',
-    poster: '/maddy.webp',
+    poster: '/maddy.webp'
   },
   {
     id: 3,
@@ -37,7 +37,7 @@
     time: '6:45',
     byo: false,
     organizer: 'LOTR Fans United',
-    poster: '/LOTR.jpg',
+    poster: '/LOTR.jpg'
   }
 ]
 }
