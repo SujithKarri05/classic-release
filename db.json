@@ -2,7 +2,7 @@
   "events": [
   {
     "id": 1,
-   "category":"Sci-fi",
+   "genre":"Sci-fi",
    "title":"Indiana Jones and the Raiders of the Lost Ark",
    "description":
      "Archaeologist Indiana Jones is hired by the U.S. government to find the Ark of the Covenant",
@@ -16,7 +16,7 @@
   },
   {
    "id": 2,
-   "category":"Action",
+   "genre":"Action",
    "title": "Mad Max: Fury Road",
    "description":
      "In a post-apocalyptic wasteland, Max teams up with Furiosa to escape a tyrannical warlord and his army.",
@@ -30,7 +30,7 @@
   },
   {
    "id": 3,
-   "category":"Adventure",
+   "genre":"Adventure",
    "title":"The Lord of the Rings: The Fellowship of the Ring",
    "description":
      "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the One Ring and save Middle-earth from the Dark Lord Sauron.",
