@@ -12,7 +12,7 @@
    "byo": true,
    "organizer":"Indiana Jones Fan Club",
    "poster":"/indi.jpg",
-    "Category": "classic-release" 
+    "category": "classic-release" 
   },
   {
    "id": 2,
@@ -26,7 +26,7 @@
    "byo": false,
    "organizer":"Mad Max Enthusiasts",
    "poster":"/maddy.webp",
-    "Category": "classic-release"
+    "category": "classic-release"
   },
   {
    "id": 3,
@@ -40,7 +40,7 @@
    "byo": false,
    "organizer":"LOTR Fans United",
    "poster":"/LOTR.jpg",
-    "Category": "classic-release"
+    "category": "classic-release"
   }
 ]
 }
