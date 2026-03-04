@@ -41,6 +41,48 @@
    "organizer":"LOTR Fans United",
    "poster":"/LOTR.jpg",
     "category": "classic-release"
+  },
+    {
+    "id": 7,
+   "genre":"Sci-fi",
+   "title":"Terminator",
+   "description":
+     "A cyborg assassin sent from the future to kill a woman whose unborn son will lead humanity’s resistance against machines.",
+  "location":"Hoyts Cinema, Melbourne",
+   "date":"February 15, 2024",
+   "time":"4:00",
+   "byo": true,
+   "organizer":"Arnold Fans Club",
+   "poster":"/Terminator.webp",
+    "category": "classic-release" 
+  },
+  {
+   "id": 8,
+   "genre":"Action",
+   "title": "Predator",
+   "description":
+     "An elite military team hunted in the jungle by a deadly extraterrestrial warrior",
+   "location":"Event Cinemas, Sydney",
+   "date":"March 10, 2024",
+   "time": "4:30",
+   "byo": false,
+   "organizer":"Arnold Fans club",
+   "poster":"/predator.jpg",
+    "category": "classic-release"
+  },
+  {
+   "id": 9,
+   "genre":"Thriller",
+   "title":"Van Helsing",
+   "description":
+     "A legendary monster hunter battling Dracula and other classic creatures in Transylvania",
+   "location":"Village Cinemas, Brisbane",
+   "date":"April 5, 2024",
+   "time":"2:45",
+   "byo": false,
+   "organizer":"Dracula fans",
+   "poster":"/singgy.jpg",
+    "category": "classic-release"
   }
 ]
 }
